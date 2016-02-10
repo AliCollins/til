@@ -8,13 +8,13 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 ### Categories
 
-*[Go](#go)
+* [Go](#go)
 
 ---
 
 ### Go
 
-- [Just a test])(go/just_a_test.md)
+- [Just a test](go/just_a_test.md)
 
 
 ## About
