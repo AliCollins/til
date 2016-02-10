@@ -1,2 +1,5 @@
-# til
-Today I learned
+# TIL
+
+> Today I learned...
+
+This is to be a collection of things I have learnt day to day ass I do whatever it is that I do!  Hope it's helpful...
