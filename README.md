@@ -10,6 +10,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 * [Go](#go)
 * [Javascript](#javascript)
+* [Markdown](#markdown)
 
 ---
 
@@ -20,6 +21,10 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### Javascript
 
 - [Arrays](javascript/arrays.md)
+
+### Markdown
+
+- [Basics](markdown/basics.md)
 
 ---
 
