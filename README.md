@@ -9,6 +9,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### Categories
 
 * [Go](#go)
+* [Javascript](#javascript)
 
 ---
 
@@ -16,6 +17,9 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 - [Just a test](go/just_a_test.md)
 
+### Javascript
+
+- [Arrays](javascript/arrays.md)
 
 ## About
 
