@@ -8,11 +8,16 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 ### Categories
 
+* [Excel](#excel)
 * [Go](#go)
 * [Javascript](#javascript)
 * [Markdown](#markdown)
 
 ---
+
+### Excel
+
+- [Statusbar Updates](excel/statusbar.md)
 
 ### Go
 
