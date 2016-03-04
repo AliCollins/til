@@ -8,12 +8,17 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 ### Categories
 
+* [C#](#csharp)
 * [Excel](#excel)
 * [Go](#go)
 * [Javascript](#javascript)
 * [Markdown](#markdown)
 
 ---
+
+### C#
+
+- [(placeholder)](csharp/placeholder.md)
 
 ### Excel
 
