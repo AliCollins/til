@@ -8,7 +8,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 ### Categories
 
-* [C#](#csharp)
+* [C-Sharp](#C-Sharp)
 * [Excel](#excel)
 * [Go](#go)
 * [Javascript](#javascript)
@@ -16,30 +16,30 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 ---
 
-### C#
+### C&#35; [C-Sharp] ##
 
 - [(placeholder)](csharp/placeholder.md)
 
-### Excel
+### Excel ###
 
 - [Statusbar Updates](excel/statusbar.md)
 - [Timers](excel/timers.md)
 
-### Go
+### Go ###
 
 - [Just a test](go/just_a_test.md)
 
-### Javascript
+### Javascript ###
 
 - [Arrays](javascript/arrays.md)
 
-### Markdown
+### Markdown ###
 
 - [Basics](markdown/basics.md)
 
 ---
 
-## About
+## About ##
 
 I shamelessly stole this idea from
 [thoughtbot/til](https://github.com/thoughtbot/til) and
