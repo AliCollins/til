@@ -8,7 +8,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 ### Categories
 
-* [C-Sharp](#C-Sharp)
+* [C-Sharp](#csharp)
 * [Excel](#excel)
 * [Go](#go)
 * [Javascript](#javascript)
@@ -16,7 +16,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 ---
 
-### C&#35; [C-Sharp] ##
+### C&#35; [csharp] ##
 
 - [(placeholder)](csharp/placeholder.md)
 
