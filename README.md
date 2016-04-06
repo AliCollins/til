@@ -13,6 +13,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 * [Go](#go)
 * [Javascript](#javascript)
 * [Markdown](#markdown)
+* [Websites](#websites)
 
 ---
 
@@ -36,6 +37,10 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### Markdown ###
 
 - [Basics](markdown/basics.md)
+
+### Websites ###
+
+- [Colours](websites/colours.md)
 
 ---
 
