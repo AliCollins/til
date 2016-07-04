@@ -28,6 +28,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 - [DoEvents](excel/doevents.md)
 - [Number To Letter](excel/numberToLetter.md)
 - [Sheetname Formula](excel/sheetName.md)
+- [Average If](excel/averageif.md)
 
 ### Go ###
 
