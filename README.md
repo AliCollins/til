@@ -27,6 +27,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 - [Timers](excel/timers.md)
 - [DoEvents](excel/doevents.md)
 - [Number To Letter](excel/numberToLetter.md)
+- [Sheetname Formula](excel/sheetName.md)
 
 ### Go ###
 
