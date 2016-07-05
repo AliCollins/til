@@ -9,7 +9,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### Categories
 
 * [C++](#c++)
-* [C-Sharp](#c)
+* [C-Sharp](#c&#35;)
 * [Excel](#excel)
 * [Go](#go)
 * [Javascript](#javascript)
@@ -19,7 +19,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ---
 ### C++ ###
 
--[Array of Arrays](cpp/arrayOfArrays.md)
+- [Array of Arrays](cpp/arrayOfArrays.md)
 
 ### C&#35; ##
 
