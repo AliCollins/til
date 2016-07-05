@@ -8,8 +8,8 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 ### Categories
 
-* [C++](#c++)
-* [C-Sharp](#c&#35;)
+* [C++](#c)
+* [C-Sharp](#c-1)
 * [Excel](#excel)
 * [Go](#go)
 * [Javascript](#javascript)
