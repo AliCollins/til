@@ -2,7 +2,7 @@
 
 In order to create an array of arrays of integers (where each child array could be of different sizes), see the following C++ code:
 
-```
+```cpp
 int **data = new int*[n];
 // Data Input
 for(int i = 0; i < n; i++) {
