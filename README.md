@@ -8,6 +8,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 ### Categories
 
+* [C++](#c++)
 * [C-Sharp](#c)
 * [Excel](#excel)
 * [Go](#go)
@@ -16,6 +17,9 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 * [Websites](#websites)
 
 ---
+### C++ ###
+
+-[Array of Arrays](cpp/arrayOfArrays.md)
 
 ### C&#35; ##
 
