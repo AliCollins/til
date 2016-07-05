@@ -1,6 +1,6 @@
 # Javascript Arrays
 A reminder of basic javascript array functions.
-```
+```js
 var arr = [];
 arr.push(2);
 arr.push(10);
