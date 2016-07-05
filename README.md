@@ -20,6 +20,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### C++ ###
 
 - [Array of Arrays](cpp/arrayOfArrays.md)
+- [Overloading Operators](cpp/overloadingOperators.md)
 
 ### C&#35; ##
 
