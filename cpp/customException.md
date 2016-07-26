@@ -1,6 +1,10 @@
 # Create a custom Exception
 
 ```c++
+#include <string>
+#include <sstream>
+#include <exception>
+
 class BadLengthException: public std::exception {
     private:
         const int n;
