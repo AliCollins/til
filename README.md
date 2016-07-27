@@ -24,6 +24,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 - [StringStream](cpp/stringStream.md)
 - [Stacks and Queues](cpp/stackAndQueue.md)
 - [Custom Exception](cpp/customException.md)
+- [Generics](cpp/generics.md)
 
 ### C&#35; ##
 
