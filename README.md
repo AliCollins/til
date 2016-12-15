@@ -15,6 +15,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 * [Javascript](#javascript)
 * [Markdown](#markdown)
 * [Websites](#websites)
+* [Word](#word)
 
 ---
 ### C++ ###
@@ -54,6 +55,10 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### Websites ###
 
 - [Colours](websites/colours.md)
+
+### Word ###
+
+- [Sequences](word/sequences.md)
 
 ---
 
