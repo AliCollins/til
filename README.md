@@ -40,6 +40,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 - [Sheetname Formula](excel/sheetName.md)
 - [Average If](excel/averageif.md)
 - [Selection](excel/selection.md)
+- [Linest](excel/linest.md)
 
 ### Go ###
 
