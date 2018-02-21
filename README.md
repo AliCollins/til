@@ -14,6 +14,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 * [Go](#go)
 * [Javascript](#javascript)
 * [Markdown](#markdown)
+* [Octave or Matlab](#octave-or-matlab)
 * [Websites](#websites)
 * [Word](#word)
 
@@ -53,6 +54,10 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### Markdown ###
 
 - [Basics](markdown/basics.md)
+
+### Octave or Matlab ###
+
+- [Suppress output](octave/suppress.md)
 
 ### Websites ###
 
