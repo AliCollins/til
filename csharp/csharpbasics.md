@@ -1,4 +1,4 @@
-# C Sharp basics
+# C&#35; Basics
 
 A quick list of C# basics:
 
