@@ -31,6 +31,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### C&#35; ##
 
 - [(placeholder)](csharp/placeholder.md)
+- [(csharpbasics)](csharp/csharpbasics.md)
 
 ### Excel ###
 
