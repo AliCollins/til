@@ -42,6 +42,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 - [Average If](excel/averageif.md)
 - [Selection](excel/selection.md)
 - [Linest](excel/linest.md)
+- [Large](excel/large.md)
 
 ### Go ###
 
