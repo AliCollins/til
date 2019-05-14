@@ -43,6 +43,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 - [Selection](excel/selection.md)
 - [Linest](excel/linest.md)
 - [Large](excel/large.md)
+- [Non-printing](excel/nonprinting.md)
 
 ### Go ###
 
