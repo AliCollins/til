@@ -57,7 +57,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 - [Basics](markdown/basics.md)
 
-### Octave or Matlab ###
+### Matlab or Octave ###
 
 - [Clear variables and screen](octave/clear.md)
 - [Functions](octave/functions.md)
