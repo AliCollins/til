@@ -14,7 +14,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 * [Go](#go)
 * [Javascript](#javascript)
 * [Markdown](#markdown)
-* [Octave or Matlab](#octave-or-matlab)
+* [Matlab](#matlab)
 * [Websites](#websites)
 * [Word](#word)
 
@@ -57,11 +57,11 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 
 - [Basics](markdown/basics.md)
 
-### Matlab or Octave ###
+### Matlab ###
 
-- [Clear variables and screen](octave/clear.md)
-- [Functions](octave/functions.md)
-- [Suppress output](octave/suppress.md)
+- [Clear variables and screen](matlab/clear.md)
+- [Functions](matlab/functions.md)
+- [Suppress output](matlab/suppress.md)
 
 ### Websites ###
 
