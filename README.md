@@ -60,6 +60,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### Octave or Matlab ###
 
 - [Clear variables and screen](octave/clear.md)
+- [Functions](octave/functions.md)
 - [Suppress output](octave/suppress.md)
 
 ### Websites ###
