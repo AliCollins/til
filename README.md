@@ -55,11 +55,11 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 - [Arrays](javascript/arrays.md)
 
 ### Linux ###
--[Linux Basics](linux/linuxbasics.md)
+- [Linux Basics](linux/linuxbasics.md)
 
 ### Markdown ###
 
--[Basics](markdown/basics.md)
+- [Basics](markdown/basics.md)
 
 ### Matlab ###
 
