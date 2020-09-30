@@ -36,7 +36,7 @@ And from Windows command line:
 
 ```C++
 
-set GOOS=linus
+set GOOS=linux
 set GOARCH=arm
 set GOARM=6
 
