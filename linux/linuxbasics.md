@@ -2,7 +2,8 @@
 
 Examples of using basic commands in Linux (and SSH), initailly primarily for Raspberry Pi Zero W.
 
-
+https://dev.to/coreyvan/from-zero-to-http-servers-with-go-and-raspberry-pi-3oi1
+https://blog.scottlogic.com/2017/02/28/building-a-web-app-with-go.html
 
 
 ```C++
