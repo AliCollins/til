@@ -13,6 +13,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 * [Excel](#excel)
 * [Go](#go)
 * [Javascript](#javascript)
+* [Linux](#linux)
 * [Markdown](#markdown)
 * [Matlab](#matlab)
 * [Websites](#websites)
@@ -52,6 +53,9 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### Javascript ###
 
 - [Arrays](javascript/arrays.md)
+
+### Linux ###
+-[Linux Basics](linux/linuxbasics.md)
 
 ### Markdown ###
 
