@@ -15,11 +15,11 @@ ls -l
 
 chmod +rwx server
 
-ps
-
 ./server
 
-kill [ID#]
+ps
+
+kill -9 [ID#]
 
 pkill server
 
