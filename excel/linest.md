@@ -37,3 +37,6 @@ c2: = INDEX(LINEST(y,x^{1,2,3}),1,2)
 c1: = INDEX(LINEST(y,x^{1,2,3}),1,3)
 b:  = INDEX(LINEST(y,x^{1,2,3}),1,4)
 ```
+
+### Filtered Data
+See: https://superuser.com/a/821484/28450
