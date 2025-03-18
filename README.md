@@ -46,7 +46,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 - [Large](excel/large.md)
 - [Non-printing](excel/nonprinting.md)
 - [Dynamic Named Range](excel/dynamicNamedRange.md)
-- [Standard Deviation and other statistics](excel.SD.md)
+- [Standard Deviation and other statistics](excel/SD.md)
 
 ### Go ###
 
