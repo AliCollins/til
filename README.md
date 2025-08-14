@@ -12,6 +12,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 * [C-Sharp](#c-1)
 * [Excel](#excel)
 * [Go](#go)
+* [Hugo](#hugo)
 * [Javascript](#javascript)
 * [Linux](#linux)
 * [Markdown](#markdown)
@@ -52,6 +53,10 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 ### Go ###
 
 - [Just a test](go/just_a_test.md)
+
+### Hugo ###
+
+- [Getting started](hugo/hugo.md)
 
 ### Javascript ###
 
