@@ -49,6 +49,7 @@ This is to be a collection of things I have learnt day to day as I do whatever i
 - [Dynamic Named Range](excel/dynamicNamedRange.md)
 - [Standard Deviation and other statistics](excel/SD.md)
 - [Last Match of column](excel/LastMatch.md)
+- [Match multiple criteria](excel/matchtwo.md)
 
 ### Go ###
 
