@@ -50,14 +50,19 @@ r2: = INDEX(LINEST(y,x^{1,2,3},,TRUE),3,1)
 ```
 
 ### Calculating R<sup>2</sup>
-Additional statistics need to be included, then it is in INDEX(...,3,1), for example for a Power Trendline:
+Additional statistics need to be included, then it is in `INDEX(...,3,1),` for example for a Power Trendline:
 ```
 R^2: = INDEX(LINEST(LN(y),LN(x),,TRUE),3,1)
 ```
 
 ### Filtered Data
-See: https://superuser.com/a/821484/28450
+Can use `FILTER` function. For instance, to ignore blank cells:
+```
+=LINEST(FILTER(y,y<>""),FILTER(x,y<>""))
+```
+See: https://stackoverflow.com/a/63413386/201618
 
+Also can see (for more complicated aspects): https://superuser.com/a/821484/28450
 
 ### Apply Operator to Y data series
 For example below I’ve used it to allow me to fit a cubic polynomial, but with the X^2 coefficient forced by me. $M90 is the forced X^2 coefficient, INDIRECT(D84) is the Y data series and INDIRECT(C84) is the X data series:
